@@ -1,0 +1,9 @@
+{
+		"scripts":{
+			"doctrine": "doctrine"
+		},
+    "require": {
+        "doctrine/orm": "^2.7",
+        "irap/autoloader": "^2.0"
+    }
+}
